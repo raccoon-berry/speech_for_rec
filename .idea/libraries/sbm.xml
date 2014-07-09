@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpeechRecForAndroid/libs/sbm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

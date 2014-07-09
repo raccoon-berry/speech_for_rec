@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="speechrec-audio-codecs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpeechRecForAndroid/libs/speechrec-audio-codecs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

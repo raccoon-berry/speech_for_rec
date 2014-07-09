@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="speechrec-service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpeechRecForAndroid/libs/speechrec-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

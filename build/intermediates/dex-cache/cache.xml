@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/build/intermediates/pre-dexed/debug/speechrec-client-7d4c8a20d92e6f61f8b42e8a0ab59ba372c77f73.jar"
+        jar="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/libs/speechrec-client.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="40545affd653359873171c7c17602c8e05598987"/>
+    <item
+        dex="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/build/intermediates/pre-dexed/debug/speechrec-audio-codecs-8c2cdfbbc6c6f78fc1c3ae5ab2c288ce4ef91bc9.jar"
+        jar="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/libs/speechrec-audio-codecs.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="279052a2b05690bdc9dbedeccc026305c423479f"/>
+    <item
+        dex="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/build/intermediates/pre-dexed/debug/speechrec-service-aaa3f0c2ed89be20f223e9f0276b4b815e08b7dc.jar"
+        jar="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/libs/speechrec-service.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d8691b678026d21b26e02753c6ae51897da83d61"/>
+    <item
+        dex="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/build/intermediates/pre-dexed/debug/android-support-v4-679ac8f78cd3e0f4c7ccbc57ff7c2feedb14b806.jar"
+        jar="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4"/>
+    <item
+        dex="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/build/intermediates/pre-dexed/debug/android-websockets-cc634dbb8965ad60a018ae7d29148d72e8f3a83b.jar"
+        jar="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/libs/android-websockets.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e425448bc2127af2e9f4c859cef8fbf4b5166960"/>
+    <item
+        dex="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/build/intermediates/pre-dexed/debug/sbm-6b863d73cf0de805f6b29a97924eb38bf0f1d150.jar"
+        jar="/Users/nodatakumi/AndroidStudioProjects/SpeechRecForAndroid/SpeechRecForAndroid/libs/sbm.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3256cb29310233003517366e30b98c6d794745ed"/>
+
+</pre-dex-items>

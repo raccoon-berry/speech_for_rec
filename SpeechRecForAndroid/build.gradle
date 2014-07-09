@@ -1,0 +1,28 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "jp.co.nttit.SpeechRec.sample"
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/android-support-v4.jar')
+    compile files('libs/android-websockets.jar')
+    compile files('libs/sbm.jar')
+    compile files('libs/speechrec-audio-codecs.jar')
+    compile files('libs/speechrec-client.jar')
+    compile files('libs/speechrec-service.jar')
+}
