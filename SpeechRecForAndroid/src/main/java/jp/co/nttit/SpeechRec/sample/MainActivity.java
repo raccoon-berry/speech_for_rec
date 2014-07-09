@@ -69,5 +69,6 @@ public class MainActivity extends Activity {
 		// 別途発行されるAPIキーを設定してください(以下の値はダミーです)
 		intent.putExtra(RecognitionActivity.KEY_API_KEY, "1");
 		startActivityForResult(intent, RECOGNIZE_ACTIVITY_REQUEST_ID);
+        // テスト
 	}
 }
